@@ -8,4 +8,4 @@
 
 A simple app that demonstrates implementing simple pagination manually in Compose Multiplatform.
 
-[Download demo](https://github.com/raheemadamboev/name/blob/cmp-pagination-manual/extra/app-debug.apk)
+[Download demo](https://github.com/raheemadamboev/cmp-pagination-debug/blob/main/extra/app-debug.apk)

@@ -52,6 +52,9 @@ kotlin {
 
             // ktor
             implementation(libs.ktor)
+            implementation(libs.ktor.negotiation)
+            implementation(libs.ktor.logging)
+            implementation(libs.ktor.json)
         }
 
         androidMain.dependencies {
